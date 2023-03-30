@@ -1,5 +1,5 @@
 # Card Hover Reveal
-![Card-Hover-Reveal-demo](https://github.com/teotimepacreau/View-Transitions-API-for-MPA-Day11-of-100DaysOfCode/blob/main/View%20Transitions%20MPA.gif)
+![Card-Hover-Reveal-demo](https://github.com/teotimepacreau/Card-Hover-Reveal-Day12-Of-100DaysOfCode/blob/main/Card%20Hover%20Reveal.gif)
 
 # Project goals
 - div overlay up to 100% on hover with transition cubic-bezier
